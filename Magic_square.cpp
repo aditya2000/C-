@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int r=5,c=5,i,j,n=1;
+    int r,c,i,j,n=1;
     cout<<"Enter Magic Square Dimension:";
     cin>>r;
     c=r;
