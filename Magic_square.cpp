@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Magic Square
 using namespace std;
 
 int main()
